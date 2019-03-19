@@ -1,4 +1,3 @@
-project make in hackindore 29/sep/2018
 
 Team name:Goal Diggers
 
